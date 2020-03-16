@@ -1,0 +1,3 @@
+PRODUTOS EM ESTOQUE
+ProdutoLimpeza [Preco Custo = 10.0 Preco Venda = 15.0 Nome Produto = Veniche Codigo De Barras = 1242345 Data De Validade = Fri Aug 13 00:00:00 BRT 3920 aroma = Doce. Parte da casa = Cozinha]
+ProdutoLimpeza [Preco Custo = 10.0 Preco Venda = 20.0 Nome Produto = Detergente Codigo De Barras = 1267549 Data De Validade = Wed Aug 13 00:00:00 BRT 3930 aroma = Doce. Parte da casa = Cozinha]

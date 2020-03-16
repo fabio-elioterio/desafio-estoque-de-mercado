@@ -1,0 +1,2 @@
+PRODUTOS EM ESTOQUE
+ProdutoAlimenticio [ Preco Custo = 10.0 Preco Venda = 15.0 Nome Produto =pao Codigo De Barras =12334556 Data De Validade =Mon Jun 14 00:00:00 BRT 3920origem =fazenda]
