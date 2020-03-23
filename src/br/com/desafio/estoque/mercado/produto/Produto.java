@@ -26,6 +26,7 @@ public abstract class Produto {
 	}
 	
 	public void aumentaPercentualPrecoVenda(float porcentagem) {
+		// XXX: Essa conta precisa ser revista.
 		this.precoVenda += this.precoVenda * porcentagem; 
 	}
 	

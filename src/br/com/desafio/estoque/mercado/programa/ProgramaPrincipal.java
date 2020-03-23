@@ -60,6 +60,7 @@ public class ProgramaPrincipal {
 
 			switch (opcaoEstoqueLimpeza) {
 			case "1": {
+				//TODO: Caberia tratar exceções por aqui
 				System.out.println("Digite o preço de custo do produto:");
 				float precoCusto = teclado.nextFloat();
 				System.out.println("Digite o preço de venda do produto:");
@@ -70,6 +71,7 @@ public class ProgramaPrincipal {
 				int codigoDeBarras = teclado.nextInt();
 				System.out.println("Digite a data de validade do produto:");
 				Date dataValidade = new Date(teclado.next());
+				// XXX: O produto não é criado de fato.
 			}
 			case "2": {
 
